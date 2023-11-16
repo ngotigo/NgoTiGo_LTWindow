@@ -1,0 +1,13 @@
+D:\C#\Doan\NgoTiGo_2121110153\NgoTiGo_2121110153\bin\Debug\NgoTiGo_2121110153.exe.config
+D:\C#\Doan\NgoTiGo_2121110153\NgoTiGo_2121110153\bin\Debug\NgoTiGo_2121110153.exe
+D:\C#\Doan\NgoTiGo_2121110153\NgoTiGo_2121110153\bin\Debug\NgoTiGo_2121110153.pdb
+D:\C#\Doan\NgoTiGo_2121110153\NgoTiGo_2121110153\obj\Debug\NgoTiGo_2121110153.csproj.AssemblyReference.cache
+D:\C#\Doan\NgoTiGo_2121110153\NgoTiGo_2121110153\obj\Debug\NgoTiGo_2121110153.Properties.Resources.resources
+D:\C#\Doan\NgoTiGo_2121110153\NgoTiGo_2121110153\obj\Debug\NgoTiGo_2121110153.csproj.GenerateResource.cache
+D:\C#\Doan\NgoTiGo_2121110153\NgoTiGo_2121110153\obj\Debug\NgoTiGo_2121110153.csproj.CoreCompileInputs.cache
+D:\C#\Doan\NgoTiGo_2121110153\NgoTiGo_2121110153\obj\Debug\NgoTiGo_2121110153.exe
+D:\C#\Doan\NgoTiGo_2121110153\NgoTiGo_2121110153\obj\Debug\NgoTiGo_2121110153.pdb
+D:\C#\Doan\NgoTiGo_2121110153\NgoTiGo_2121110153\obj\Debug\NgoTiGo_2121110153.frmDangNhap.resources
+D:\C#\Doan\NgoTiGo_2121110153\NgoTiGo_2121110153\obj\Debug\NgoTiGo_2121110153.frmQuanLy.resources
+D:\C#\Doan\NgoTiGo_2121110153\NgoTiGo_2121110153\obj\Debug\NgoTiGo_2121110153.frmThongTinCaNhan.resources
+D:\C#\Doan\NgoTiGo_2121110153\NgoTiGo_2121110153\obj\Debug\NgoTiGo_2121110153.frmAdmin.resources
